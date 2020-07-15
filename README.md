@@ -6,6 +6,10 @@
     -   [Eloquent javascript](https://eloquentjavascript.net/)
     -   [codeacademy](https://www.codecademy.com/catalog/language/javascript)
     -   [freecodecamp - learn-javascript-full-course](https://www.freecodecamp.org/news/learn-javascript-full-course/)
+    -   [notes for professionals: html5](https://books.goalkicker.com/HTML5Book/)
+    -   [notes for professionals: javascript](https://books.goalkicker.com/JavaScriptBook/)
+    -   [notes for professionals: typescript](https://books.goalkicker.com/TypeScriptBook2/)
+    -   [notes for professionals: css](https://books.goalkicker.com/CSSBook/)
 
 
 -   [ES6](https://github.com/lukehoban/es6features)
@@ -16,6 +20,7 @@
     -   [awesome-react-components](https://github.com/brillout/awesome-react-components)
     -   [wprowadzenie-kurs-react-js/](https://typeofweb.com/wprowadzenie-kurs-react-js/)
     -   [React Documentation](https://reactjs.org/docs)
+    -   [notes for professionals: React](https://books.goalkicker.com/ReactJSBook/)
 -   [Vue](#vue)
     - [awesome-vue](https://github.com/vuejs/awesome-vue)
     - [vuejs.org/v2/guide/](https://vuejs.org/v2/guide/)
