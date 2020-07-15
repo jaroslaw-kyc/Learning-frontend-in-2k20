@@ -26,8 +26,8 @@
     - [vuejs.org/v2/guide/](https://vuejs.org/v2/guide/) 
     - [typeofweb.com/wprowadzenie-do-kursu-vue-js-od-podstaw/](https://typeofweb.com/wprowadzenie-do-kursu-vue-js-od-podstaw/)
 -   [Angular](#angular)
-    - [awesome-angular](https://github.com/PatrickJS/awesome-angular) 
-    - [angular tutorial](https://angular.io/tutorial) :heart:
+    - [awesome-angular](https://github.com/PatrickJS/awesome-angular) :heart:
+    - [angular tutorial](https://angular.io/tutorial)
     - [material.angular.io](https://material.angular.io/)
     - [ngrx.io](https://ngrx.io/)
     - [rxjs-dev.firebaseapp.com/api](https://rxjs-dev.firebaseapp.com/api)
