@@ -1,7 +1,8 @@
 # How to frontend
 
 -   [Basics](#basics)
-    -   [Modern javascript](https://github.com/javascript-tutorial/en.javascript.info) 
+    -   [Modern javascript](https://javascript.info/) :heart:
+    -   [Modern javascript repo](https://github.com/javascript-tutorial/en.javascript.info) 
     -   [Eloquent javascript](https://eloquentjavascript.net/)
     -   [codeacademy](https://www.codecademy.com/catalog/language/javascript)
     -   [freecodecamp - learn-javascript-full-course](https://www.freecodecamp.org/news/learn-javascript-full-course/)
