@@ -16,18 +16,18 @@
     - [ES6-for-humans](https://github.com/metagrover/ES6-for-humans) 
 -   [React](#react)
     -   [wprowadzenie-kurs-react-js/](https://typeofweb.com/wprowadzenie-kurs-react-js/)
-    -   [awesome-react](https://github.com/enaqx/awesome-react) 
+    -   [awesome-react](https://github.com/enaqx/awesome-react) :heart:
     -   [awesome-react-components](https://github.com/brillout/awesome-react-components)
     -   [React Documentation](https://reactjs.org/docs) 
     -   [notes for professionals: React](https://books.goalkicker.com/ReactJSBook/) 
 -   [Vue](#vue)
     - [typeofweb.com/wprowadzenie-do-kursu-vue-js-od-podstaw/](https://typeofweb.com/wprowadzenie-do-kursu-vue-js-od-podstaw/)
-    - [awesome-vue](https://github.com/vuejs/awesome-vue) 
+    - [awesome-vue](https://github.com/vuejs/awesome-vue) :heart:
     - [vuejs.org/v2/guide/](https://vuejs.org/v2/guide/) 
     - [typeofweb.com/wprowadzenie-do-kursu-vue-js-od-podstaw/](https://typeofweb.com/wprowadzenie-do-kursu-vue-js-od-podstaw/)
 -   [Angular](#angular)
     - [awesome-angular](https://github.com/PatrickJS/awesome-angular) 
-    - [angular tutorial](https://angular.io/tutorial)
+    - [angular tutorial](https://angular.io/tutorial) :heart:
     - [material.angular.io](https://material.angular.io/)
     - [ngrx.io](https://ngrx.io/)
     - [rxjs-dev.firebaseapp.com/api](https://rxjs-dev.firebaseapp.com/api)
