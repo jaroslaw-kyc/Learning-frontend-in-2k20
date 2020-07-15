@@ -23,8 +23,7 @@
 -   [Vue](#vue)
     - [typeofweb.com/wprowadzenie-do-kursu-vue-js-od-podstaw/](https://typeofweb.com/wprowadzenie-do-kursu-vue-js-od-podstaw/)
     - [awesome-vue](https://github.com/vuejs/awesome-vue) :heart:
-    - [vuejs.org/v2/guide/](https://vuejs.org/v2/guide/) 
-    - [typeofweb.com/wprowadzenie-do-kursu-vue-js-od-podstaw/](https://typeofweb.com/wprowadzenie-do-kursu-vue-js-od-podstaw/)
+    - [vuejs.org/v2/guide/](https://vuejs.org/v2/guide/)
 -   [Angular](#angular)
     - [awesome-angular](https://github.com/PatrickJS/awesome-angular) :heart:
     - [angular tutorial](https://angular.io/tutorial)
