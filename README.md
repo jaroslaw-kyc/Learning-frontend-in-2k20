@@ -53,6 +53,6 @@
     - [Angular quickswitch](https://marketplace.visualstudio.com/items?itemName=erhise.vs-ng-quick-switch) :heart: - imo must have when developing an angular app
 -   Vue
     - [syntax highlighting](https://marketplace.visualstudio.com/items?itemName=jcbuisson.vue)
-    - [Vue 2 snippets](https://marketplace.visualstudio.com/items?itemName=hollowtree.vue-snippets)
+    - [Vue 3 snippets](https://marketplace.visualstudio.com/items?itemName=Wscats.vue)
     - [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
     - [Tslint vue](https://marketplace.visualstudio.com/items?itemName=prograhammer.tslint-vue)
