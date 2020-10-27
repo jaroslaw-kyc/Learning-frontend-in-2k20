@@ -16,13 +16,13 @@
     - [ES6 features](https://github.com/lukehoban/es6features) 
     - [ES6-for-humans](https://github.com/metagrover/ES6-for-humans) 
 -   [React](#react)
-    -   [wprowadzenie-kurs-react-js/](https://typeofweb.com/wprowadzenie-kurs-react-js/)
+    -   [wprowadzenie-kurs-react-js/](https://typeofweb.com/wprowadzenie-kurs-react-js/) :poland:
     -   [awesome-react](https://github.com/enaqx/awesome-react) :heart:
     -   [awesome-react-components](https://github.com/brillout/awesome-react-components)
     -   [React Documentation](https://reactjs.org/docs) 
     -   [notes for professionals: React](https://books.goalkicker.com/ReactJSBook/) 
 -   [Vue](#vue)
-    - [typeofweb.com/wprowadzenie-do-kursu-vue-js-od-podstaw/](https://typeofweb.com/wprowadzenie-do-kursu-vue-js-od-podstaw/)
+    - [typeofweb.com/wprowadzenie-do-kursu-vue-js-od-podstaw/](https://typeofweb.com/wprowadzenie-do-kursu-vue-js-od-podstaw/) :poland:
     - [awesome-vue](https://github.com/vuejs/awesome-vue) :heart:
     - [vuejs.org/v2/guide/](https://vuejs.org/v2/guide/)
 -   [Angular](#angular)
